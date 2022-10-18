@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Learning New Things**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Python ,C++**
 
