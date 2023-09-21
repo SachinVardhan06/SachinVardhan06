@@ -24,7 +24,7 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE - (AIML) | <img src="https://www.examsplanner.in/media/niet-greater-noida-college.png" width="30" height="30"/> | Noida Institute of Engineering & Technology  | 8.0 CGPA | Nov 22 - Current |
+| BTech (CSE-AIML) | <img src="https://www.examsplanner.in/media/niet-greater-noida-college.png" width="30" height="30"/> | Noida Institute of Engineering & Technology  | 8.0 CGPA | Nov 22 - Current |
 | 10+2 (PCM) | <img src="https://hindubabynames.info/wp-content/themes/hbn_download/download/indian-government/cbse-logo.png" width="30" height="30"/> | Priyanka Modern School (CBSE) | 80% | Apr 18 - Jul 20 |
 
 <br>
