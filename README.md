@@ -3,7 +3,6 @@
 <h3 align="center">Hello 'How are you' :)</h3>
 <img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinvardhan&label=Profile%20views&color=0e75b6&style=flat" alt="sachinvardhan" /> </p>
 
 - 🔭 I’m currently working on **Learning New Things**
 
