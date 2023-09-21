@@ -25,8 +25,8 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE - (AIML) | <img src="https://www.bing.com/images/search?view=detailV2&ccid=GdHgY%2b%2bw&id=039151FA0C60A98C1696EE6D20D1D7A049D4DBC8&thid=OIP.GdHgY--w6xlclUOO0_DZfAAAAA&mediaurl=https%3a%2f%2fwww.examsplanner.in%2fmedia%2fniet-greater-noida-college.png&exph=160&expw=174&q=Niet+Noida+Logo&simid=608015697205679066&FORM=IRPRST&ck=E3B0A5960514EB891D61195B4478F031&selectedIndex=0&ajaxhist=0&ajaxserp=0" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8.6 CGPA | Nov 21 - Current |
-| 10+2 (PCM) | <img src="https://upload.wikimedia.org/wikipedia/en/b/b7/West_Bengal_Council_of_Higher_Secondary_Education_Logo.png" width="30" height="30"/> | Bhimeswari Uchcha Sikshayatan (WBCHSE) | 90% | May 19 - Jul 21 |
+| BTech (CSE - (AIML) | <img src="https://www.bing.com/images/search?view=detailV2&ccid=GdHgY%2b%2bw&id=039151FA0C60A98C1696EE6D20D1D7A049D4DBC8&thid=OIP.GdHgY--w6xlclUOO0_DZfAAAAA&mediaurl=https%3a%2f%2fwww.examsplanner.in%2fmedia%2fniet-greater-noida-college.png&exph=160&expw=174&q=Niet+Noida+Logo&simid=608015697205679066&FORM=IRPRST&ck=E3B0A5960514EB891D61195B4478F031&selectedIndex=0&ajaxhist=0&ajaxserp=0" width="30" height="30"/> | Noida Institute of Engineering & Technology  | 8.0 CGPA | Nov 22 - Current |
+| 10+2 (PCM) | <img src="https://hindubabynames.info/wp-content/themes/hbn_download/download/indian-government/cbse-logo.png" width="30" height="30"/> | Priyanka Modern School (CBSE) | 80% | Apr 18 - Jul 20 |
 
 <br>
 
